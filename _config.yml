@@ -1,6 +1,6 @@
 name: ajphoto
 favicon: null
-layout_spectrum: 0.21954690432175994
+layout_spectrum: 1
 typography_spectrum: 0.15276334062218666
 title: AJPhoto Grid Site Test
 cta:
@@ -23,7 +23,7 @@ color:
     - '#575757'
     - '#00ffff'
   brandStrength: 0.6875
-  lightness: 0.2768004483077675
-  saturation: 0.19354514661245048
-  rhythmicContrast: 0.9121492814738303
+  lightness: 1
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
