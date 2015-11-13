@@ -2,6 +2,7 @@ name: ajphoto
 favicon: null
 layout_spectrum: 0.21954690432175994
 typography_spectrum: 0.15276334062218666
+title: AJPhoto Grid Site Test
 cta:
   domain: null
   bucket: null
