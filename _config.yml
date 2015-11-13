@@ -1,0 +1,23 @@
+name: ajphoto
+favicon: null
+layout_spectrum: 0.21954690432175994
+typography_spectrum: 0.15276334062218666
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7394956820644438
+  lightness: 0.2768004483077675
+  saturation: 0.19354514661245048
+  rhythmicContrast: 0.9121492814738303
+purpose: []
