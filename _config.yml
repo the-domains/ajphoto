@@ -1,5 +1,8 @@
+name: ajphoto
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.90102
 title: AJPhoto Grid Site Test
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.3375149
-  lightness: 1
-  brandStrength: 1
-  brandColors:
-    - '#a0023c'
-    - '#010101'
-    - '#ffffff'
-    - '#575757'
-    - '#00ffff'
-  rhythmicContrast: 0.5
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: ajphoto
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.71679
-layout_spectrum: 1
+color:
+  brandColors:
+    - '#c4af5d'
+    - '#808000'
+    - '#ffff00'
+    - '#ff0000'
+    - '#000000'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.8125
+  rhythmicContrast: 0.75
+purpose: []
