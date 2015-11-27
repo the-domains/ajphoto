@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[AJPhoto Grid Site Test]]></title>
+        <description><![CDATA[AJPhoto Grid Site Test]]></description>
+        <link>https://thegrid.ai/ajphoto/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 27 Nov 2015 23:28:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ajphoto/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Here I am again attempting to try out this site. I am feeling discouraged as I don't really like the blog format. I am looking for a true website. Also the backspace key does not work in this editor. Very frustrating. http://www.ambijohnphotography.com]]></title>
+            <description><![CDATA[<h1>Here I am again attempting to try out this site. I am feeling discouraged as I don't really like the blog format. I am looking for a true website. Also the backspace key does not work in this editor. Very frustrating. http://www.ambijohnphotography.com</h1>]]></description>
+            <link>https://thegrid.ai/ajphoto/first-post/index.html</link>
+            <guid isPermaLink="false">bf0f2ee5-9055-4c52-a7f4-42ed64ee754c</guid>
+            <pubDate>Fri, 27 Nov 2015 23:28:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
